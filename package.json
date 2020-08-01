@@ -1,0 +1,12 @@
+{
+  "name": "rocketseat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": "true",
+  "workspaces": {
+    "packages": ["packages/*"]
+  },
+  "repository": "git@github.com:RonaldoSetzer/rocketseat-courses.git",
+  "author": "Ronaldo Santiago <ronaldo.setzer@gmail.com>"
+}
